@@ -19,14 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakshitRai777&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitRai777&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
 ## 🛠️ Tech Arsenal
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![AI](https://img.shields.io/badge/AI-Assistant-green?logo=github)
