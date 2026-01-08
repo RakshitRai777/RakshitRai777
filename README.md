@@ -31,6 +31,7 @@
 |-------|-------------|
 | 🤖 **[JARVIS_AI](https://github.com/RakshitRai777/JARVIS_AI)** | Local multimodal AI assistant |
 | 🎨 **[AI_Image_Generator](https://github.com/RakshitRai777/AI_Image_Generator)** | Prompt-based image generation |
+| 🌱 **[AI_Environment_Monitoring_System](https://github.com/RakshitRai777/AI-Environment-Monitoring-System)** | Real time environment monitoring system |
 
 <hr>
 
