@@ -80,8 +80,7 @@
 
 ## 📫 Connect With Me
 💼 **LinkedIn** — Coming Soon  
-🌐 **Portfolio** — In Progress  
-🐦 **Twitter/X** — @RakshitRai777  
+🌐 **Portfolio** — In Progress   
 
 ---
 
