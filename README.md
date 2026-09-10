@@ -80,7 +80,7 @@
 <hr>
 
 ## 📫 Connect With Me
-💼 **LinkedIn** — Coming Soon  
+💼 **LinkedIn** — [Rakshit Rai](https://www.linkedin.com/in/rakshit-rai-2a3a40435/) 
 🌐 **Portfolio** — In Progress   
 
 ---
